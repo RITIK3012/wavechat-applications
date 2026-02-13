@@ -1,3 +1,3 @@
 export default {
-  SOCKET_ENDPOINT: 'localhost:3001'
+  SOCKET_ENDPOINT: 'http://localhost:3055'
 }
